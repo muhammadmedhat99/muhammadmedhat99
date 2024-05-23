@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="30" alt="sass logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"/>
 </div>
@@ -41,7 +41,7 @@
   <a href="mailto:muhammadmedhat12@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-yousef-2a198b223/">
+  <a href="https://www.linkedin.com/in/muhammad-yousef-2a198b223/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
